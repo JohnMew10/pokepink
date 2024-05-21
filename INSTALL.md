@@ -141,8 +141,8 @@ Now you're ready to [build **pokeyellow**](#build-pokeyellow).
 To download the **pokeyellow** source files:
 
 ```bash
-git clone https://github.com/pret/pokeyellow
-cd pokeyellow
+git clone https://github.com/JohnMew10/pokepink
+cd pokepink
 ```
 
 To build **pokeyellow.gbc**:
